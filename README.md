@@ -15,6 +15,9 @@
 - 🌱 Currently learning modern web technologies
 - 🚀 Passionate about building innovative applications
 - 📍 Kerala, India
+## 📚 Current Learning
+
+- JavaScript
 
 ---
 
